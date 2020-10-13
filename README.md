@@ -2,6 +2,7 @@
 <h4>School.mng.sys is a GUI app. which is made with the help of Python Package(Tkinter).</h4>
 <h2>Database used in this is MySql</h2>
 <p>First You have to connect your python code with the database.<p>
+  <p>The code for connecting database with your python code is written in above dbinfor folder.</p>
 
 
 
